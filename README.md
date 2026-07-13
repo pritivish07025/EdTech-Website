@@ -74,7 +74,7 @@ edtechwebsite-clone
 ### Clone Repository
 
 ```bash
-git clone https://github.com/pritivish07025/edtechwebsite-clone.git
+git clone https://github.com/pritivish07025/EdTech-Website.git
 ```
 
 ### Navigate to Project
