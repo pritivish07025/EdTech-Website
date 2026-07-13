@@ -129,25 +129,6 @@ This project helped me improve my understanding of:
 
 ---
 
-## 🔮 Future Enhancements
-
-- User Authentication
-- Course Details Page
-- Search Courses
-- Dark Mode
-- Backend Integration
-- Student Dashboard
-- Instructor Dashboard
-- Payment Gateway
-- Course Enrollment System
-
----
-
-## 🌍 Live Website
-
-👉 https://edtechwebsite-clone.netlify.app/
-
----
 
 ## 👩‍💻 Author
 
