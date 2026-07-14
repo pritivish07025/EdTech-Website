@@ -2,8 +2,8 @@
 
 A fully responsive, multi-section marketing landing page built with **React**, **Vite**, and **React-Bootstrap**. Designed for a corporate/EdTech brand, the site showcases services, portfolio work, team members, pricing plans, testimonials, and a contact section — all built as modular, reusable React components.
 
-**Live Demo:** [Add your Netlify link here]
-**GitHub Repo:** [Add your repo link here]
+**Live Demo:** [https://edtechwebsite-clone.netlify.app/]
+**GitHub Repo:** [https://github.com/pritivish07025/EdTech-Website.git]
 
 ---
 
@@ -93,7 +93,7 @@ Deployed via Netlify with GitHub integration for continuous deployment — every
 
 ```bash
 # Clone the repository
-git clone https://github.com/pritivish07025/YOUR-REPO-NAME.git
+git clone https://github.com/pritivish07025/EdTech-Website.git
 cd YOUR-REPO-NAME
 
 # Install dependencies
